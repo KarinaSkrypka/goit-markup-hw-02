@@ -271,7 +271,7 @@ button:focus {
   background: var(--add-color);
 }
 
-.btn-item {
+.but-item {
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -280,8 +280,8 @@ button:focus {
   color: var(--nav-color);
 }
 
-.btn-item:hover,
-.btn-item:focus {
+.but-item:hover,
+.but-item:focus {
   color: var(--main-color);
 }
 
